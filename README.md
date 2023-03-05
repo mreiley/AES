@@ -7,7 +7,7 @@ secure encryption standards, and was adopted by the US government in 2002 and Te
 ### Task
 
 
- * Test vectors are sets of known inputs and keys that generate known encrypted results (ciphers).
+* Test vectors are sets of known inputs and keys that generate known encrypted results (ciphers).
 Inputs, keys and outputs are not necessarily text characters. NIST distributes the reference of
 AES test vectors as AES Known Answer Test (KAT) Vectors.
 
@@ -15,4 +15,6 @@ AES test vectors as AES Known Answer Test (KAT) Vectors.
 the test vectors are all presented,here as double-byte characters,
 in other words as 16 bits per character.
 
-* To use the packages:crypto/aes,reflect
+* To use the packages:crypto/aes,reflect,testing
+
+* Create  unit testing table.
